@@ -12,10 +12,6 @@ const AboutMe = () => {<br>     return (<br>            <p><br>                 
 ![](https://nirzak-streak-stats.vercel.app/?user=Vahid-moeini83&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vahid-moeini83&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
 <!--
 **Vahid-moeini83/Vahid-moeini83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
