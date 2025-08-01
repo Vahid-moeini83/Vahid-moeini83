@@ -1,5 +1,5 @@
 # About Me:
-function IntroduceMySelf() {<br>     return (<br>            <p><br>                  Hello my friend. I'm Vahid ---- A front-end developer who loves building scalable web applications and exploring new technologies.<br>                  Welcome to my GitHub, where I turn ideas into code!<br>            </p><br>      );<br>}
+const AboutMe = () => {<br>     return (<br>            <p><br>                  Hello my friend. I'm Vahid ---- A front-end developer who loves building scalable web applications and exploring new technologies.<br>                  Welcome to my GitHub, where I turn ideas into code!<br>            </p><br>      );<br>}
 
 
 ## 🌐 Socials:
